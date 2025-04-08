@@ -1,4 +1,4 @@
-Speaker Classification with Deep Learning Project
+**Speaker Classification with Deep Learning Project**
 
 This project identifies a speaker from a set of speakers based on a given speech sample using a variety of deep learning techniques (CNNs and LSTMs) with up to 88% accuracy.  
 
